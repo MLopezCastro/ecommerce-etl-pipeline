@@ -1,0 +1,13 @@
+# Evita archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración privados
+.env
+
+# Archivos de logs
+*.log
+logs/
+
+# Resultados de salida (los regeneramos siempre)
+data/output/

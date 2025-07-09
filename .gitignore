@@ -11,3 +11,6 @@ logs/
 
 # Resultados de salida (los regeneramos siempre)
 data/output/
+
+venv/
+

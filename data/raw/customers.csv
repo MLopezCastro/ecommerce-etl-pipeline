@@ -1,0 +1,5 @@
+customer_id,signup_date,country,vip_flag,email
+501,2023-11-05,AR,Y,ana.perez@email.com
+502,2023-11-10,MX,N,juan.gomez@email.com
+503,2023-11-12,CL,Y,luisa.fernandez@email.com
+

@@ -2,3 +2,30 @@ order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,curr
 1001,2025-01-15,501,78,Wireless Mouse,2,19.99,USD,shipped
 1002,2025-01-16,502,79,Gaming Keyboard,1,49.99,USD,pending
 1003,2025-01-17,503,80,USB-C Hub,3,29.99,USD,returned
+1004,2025-01-18,504,81,Laptop Stand,1,39.99,USD,shipped
+1005,2025-01-19,505,82,Wireless Charger,2,24.99,USD,shipped
+1006,2025-01-20,506,83,Noise Cancelling Headphones,1,89.99,USD,pending
+1007,2025-01-21,507,84,Webcam HD,1,49.99,USD,shipped
+1008,2025-01-22,508,85,Bluetooth Speaker,2,59.99,USD,returned
+1009,2025-01-23,509,86,Smartwatch,1,129.99,USD,shipped
+1010,2025-01-24,510,87,Portable SSD,1,99.99,USD,pending
+1011,2025-01-25,511,88,LED Desk Lamp,3,19.99,USD,shipped
+1012,2025-01-26,512,89,Mechanical Pencil,5,2.49,USD,shipped
+1013,2025-01-27,513,90,Notebook Set,4,5.99,USD,shipped
+1014,2025-01-28,514,91,Ergonomic Chair,1,199.99,USD,pending
+1015,2025-01-29,515,92,Monitor 24",2,149.99,USD,shipped
+1016,2025-01-30,516,93,Desk Organizer,1,15.99,USD,returned
+1017,2025-01-31,517,94,Whiteboard Markers,6,1.99,USD,shipped
+1018,2025-02-01,518,95,Mouse Pad,2,4.99,USD,shipped
+1019,2025-02-02,519,96,File Cabinet,1,89.99,USD,pending
+1020,2025-02-03,520,97,Paper Shredder,1,69.99,USD,shipped
+1021,2025-02-04,521,98,Wi-Fi Router,1,59.99,USD,shipped
+1022,2025-02-05,522,99,Extension Cord,3,6.99,USD,returned
+1023,2025-02-06,523,100,Wireless Earbuds,2,39.99,USD,shipped
+1024,2025-02-07,524,101,Smart Light Bulbs,4,12.99,USD,shipped
+1025,2025-02-08,525,102,Charging Cable,3,7.99,USD,pending
+1026,2025-02-09,526,103,Standing Desk,1,249.99,USD,shipped
+1027,2025-02-10,527,104,Notebook Cooler,2,27.99,USD,shipped
+1028,2025-02-11,528,105,HDMI Cable,3,8.99,USD,returned
+1029,2025-02-12,529,106,Desk Plant,1,14.99,USD,shipped
+1030,2025-02-13,530,107,Laser Printer,1,199.99,USD,shipped
